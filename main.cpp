@@ -1,6 +1,7 @@
 #include <iostream>
 #include <stdlib.h>
-#include "setn_mascotas.hpp"
+#include "setn_mascotas.hpp"}
+#define GIT prueba 
 using namespace std;
 /************************************************
     Inicializacion de cuenta
